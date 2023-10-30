@@ -1,0 +1,6 @@
+.top-bar {
+    background-color: #b4ff9b !important;
+}
+.dark-mode .top-bar {
+    background-color: #3f197d !important;
+}
